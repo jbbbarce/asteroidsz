@@ -14,4 +14,3 @@ Now that the base game is functional, I am planning to expand and polish the gam
 - [ ] **Scoring System:** Tracking points for destroying asteroids based on their size.
 - [ ] **UI/UX Polish:** Adding a proper Start screen, Game Over screen, and a visible UI for the score and remaining lives.
 - [ ] **Player Lives & Invulnerability:** Giving the player multiple lives and a brief invulnerability window upon respawning.
--
